@@ -19,7 +19,7 @@ public class IDEButton2 : MonoBehaviour {
 		button_style.alignment = TextAnchor.MiddleCenter;
 		button_style.fontSize = 30;	
 		
-		input = new EclipseInput("UnideeJavaCode",Application.dataPath + "/Unidee/Examples/UnideeJavaCode/Example.java");
+		input = new EclipseInput("UnideeJavaCode",Application.dataPath + "/Vendor/Unidee/Examples/UnideeJavaCode/Example.java");
 	}
 
 	// Use this for initialization
