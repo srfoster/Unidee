@@ -21,6 +21,7 @@ public class EclipseInput : FileInput {
 		string project_string = "";
 		foreach(string s in project_list_string.Split('\n'))
 		{
+			Debug.Log("Project : " + s);
 			if(!s.Equals(""))
 			{
 				string[] project_string_split = s.Split(',');
