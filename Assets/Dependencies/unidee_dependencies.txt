@@ -1,1 +1,2 @@
 https://github.com/downloads/srfoster/Euclid/Euclid.unitypackage
+https://github.com/downloads/srfoster/BasicWorld/BasicWorld.unitypackage

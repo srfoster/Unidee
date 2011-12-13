@@ -1,11 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Unidee/Examples/IDEButton2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Dependencies/unidee_dependencies.txt">
     <Files>
-      <File FileName="Assets/Unidee/EclipseInput.cs" Line="1" Column="1" />
-      <File FileName="Assets/Unidee/IDE.cs" Line="1" Column="1" />
-      <File FileName="Assets/Euclid/Eclipse.cs" Line="38" Column="128" />
-      <File FileName="Assets/Unidee/Examples/IDEButton2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Dependencies/unidee_dependencies.txt" Line="2" Column="60" />
+      <File FileName="Assets/Vendor/Unidee/Examples/IDEButton2.cs" Line="22" Column="77" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
